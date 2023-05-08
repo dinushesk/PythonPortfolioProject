@@ -15,3 +15,5 @@ The project is divided into several sections for clarity.
 
 The ultimate objective is to analyze the factors that contribute to customer churn in XYZ telecom company and determine what influences customer churn.
 This analysis will enable XYZ to take proactive measures to retain customers and reduce churn rate.
+
+#analysis #modeling #dataanalytics #analysis #EDA #telco #churnprediction
